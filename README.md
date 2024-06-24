@@ -47,8 +47,20 @@ The Email Scanning System is a robust application designed to identify and categ
 
 ### Keyword Management
 
-![Keyword Management](images/keyword_management.png)
+![Keyword Management](Images/Home.png)
+
+![Keyword Management](Images/addKeyword.png)
+![Keyword Management](Images/updateKey.png)
+![Keyword Management](Images/delKey.png)
+![Keyword Management](Images/view.png)
+
+### GUI componenets
+![GUI](Images/ScanGUI.png)
+![Menu](Images/Menu.png)
 
 ### Scan Results
 
-![Scan Results](images/scan_results.png)
+![Scan Results](Images/ScanEmail.png)
+
+### Analysis
+![anaylsis](Images/analysis.png)
